@@ -1,0 +1,19 @@
+*{margin: 0;padding:0;box-sizing:border-box;}
+#exemplo{ 
+    border: solid red;
+}
+#exemplo{ 
+    border: double red;
+}
+#exemplo{ 
+    border: groove red;
+}
+#exemplo{ 
+    border: ridge red;
+}
+#exemplo{ 
+    border: inset red;
+}
+#exemplo{ 
+    border: outset red;
+}
